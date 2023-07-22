@@ -21,7 +21,7 @@ By integrating the Advanced Thumbnail Seekbar, you'll create a user-friendly vid
 
 For a detailed explanation and demonstration of the device rotation control implementation, make sure to watch the corresponding video tutorial on our YouTube channel. The tutorial covers the code implementation and provides valuable insights to help you incorporate this feature into your own video player.
 
-[Video Playlist for AvPlayer]([https://www.youtube.com/watch?v=naMfH2nryvQ&list=PL2Sk-NhO3icHtmBTtg70eeOUug4CEzaSm](https://www.youtube.com/watch?v=naMfH2nryvQ&list=PL2Sk-NhO3icHtmBTtg70eeOUug4CEzaSm))
+[Video Playlist for AvPlayer](https://www.youtube.com/watch?v=naMfH2nryvQ&list=PL2Sk-NhO3icHtmBTtg70eeOUug4CEzaSm)
 
 ## Contributions
 
